@@ -5,7 +5,7 @@ subtitle: |
 author: |
   | [Ogundepo Ezekiel Adebayo](https://bit.ly/gbganalyst)
   | [I'm on Twitter](https://twitter.com/gbganalyst)
-date: "October 25, 2020"
+date: "Tuesday, October 20, 2020"
 output: 
   html_document:
     theme: flatly
@@ -23,7 +23,7 @@ editor_options:
  
 <br>
 <center>
-<img src="Bootcamp/bootcamp_logo.png" width="100%" height="100%" />
+<img src="Bootcamp_slides/bootcamp_logo.png" width="100%" height="100%" />
 </center>
 <br>
  
@@ -31,6 +31,8 @@ editor_options:
 
 
 # Exam Instructions
+
+The sample exam can be found [here](https://education.rstudio.com/blog/2020/08/more-example-exams/).
 
 - This exam covers material from R for Data Science (r4ds) to test your knowledge of the [tidyverse](https://www.tidyverse.org/). You may find the solution provided [here](https://jrnold.github.io/r4ds-exercise-solutions/) for r4ds useful.
 
@@ -122,7 +124,7 @@ display_data <- function(df, title = "Data structure") {
 }
 ```
 
-![](Bootcamp/vtable.gif)
+![](Bootcamp_slides/vtable.gif)
 
 
 ## Question 2 {.tabset .tabset-fade .tabset-pills}
@@ -684,6 +686,6 @@ output:
 
 ---
 
-I hope you enjoy R Programming End to End Using Tidyverse Sample Exam. For more updates in `R`, `Python`, and `Excel` for data science you can also consider to follow me on [Twitter](https://www.twitter.com/gbganalyst){target="_blank"} and [Linkedin](https://www.linkedin.com/in/ezekiel-ogundepo/){target="_blank"}. The Github repository for this `AIBootcamp 2020` session  can be found [here](https://github.com/gbganalyst/Data-Visualization-and-Analysis).
+I hope you enjoy R Programming End to End Using Tidyverse Sample Exam. For more updates in `R`, `Python`, and `Excel` for data science, you can consider to follow me on [Twitter](https://www.twitter.com/gbganalyst){target="_blank"} and [Linkedin](https://www.linkedin.com/in/ezekiel-ogundepo/){target="_blank"}. The Github repository for this [AIBootcamp 2020](https://www.datasciencenigeria.org/2020) R programming session  can be found [here](https://github.com/gbganalyst/R-programming-end-to-end).
 
 ![](https://media2.giphy.com/media/14tCeoSGpXCWrQvixk/giphy.gif)  
