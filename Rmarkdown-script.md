@@ -1,10 +1,10 @@
 ---
 title: "R Programming End to End Using Tidyverse Sample Exam"
 subtitle: |
-  [for Data Science Nigeria AI Bootcamp 2020](https://www.datasciencenigeria.org)
+  [for Data Science Nigeria AI Bootcamp 2020](https://www.datasciencenigeria.org){target="_blank"}
 author: |
-  | [Ogundepo Ezekiel Adebayo](https://bit.ly/gbganalyst)
-  | [I'm on Twitter](https://twitter.com/gbganalyst)
+  | [Ogundepo Ezekiel Adebayo](https://bit.ly/gbganalyst){target="_blank"}
+  | [I'm on Twitter](https://twitter.com/gbganalyst){target="_blank"}
 date: "Tuesday, October 20, 2020"
 output: 
   html_document:
@@ -32,7 +32,7 @@ editor_options:
 
 # Exam Instructions
 
-The sample exam can be found [here](https://education.rstudio.com/blog/2020/08/more-example-exams/).
+The sample exam can be found [here](https://education.rstudio.com/blog/2020/08/more-example-exams/){target="_blank"}.
 
 - This exam covers material from R for Data Science (r4ds) to test your knowledge of the [tidyverse](https://www.tidyverse.org/). You may find the solution provided [here](https://jrnold.github.io/r4ds-exercise-solutions/) for r4ds useful.
 
@@ -686,6 +686,6 @@ output:
 
 ---
 
-I hope you enjoy R Programming End to End Using Tidyverse Sample Exam. For more updates in `R`, `Python`, and `Excel` for data science, you can consider to follow me on [Twitter](https://www.twitter.com/gbganalyst){target="_blank"} and [Linkedin](https://www.linkedin.com/in/ezekiel-ogundepo/){target="_blank"}. The Github repository for this [AIBootcamp 2020](https://www.datasciencenigeria.org/2020-bootcamp/) R programming session  can be found [here](https://github.com/gbganalyst/R-programming-end-to-end).
+I hope you enjoy R Programming End to End Using Tidyverse Sample Exam. For more updates in `R`, `Python`, and `Excel` for data science, you can consider to follow me on [Twitter](https://www.twitter.com/gbganalyst){target="_blank"} and [Linkedin](https://www.linkedin.com/in/ezekiel-ogundepo/){target="_blank"}. The Github repository for this [AIBootcamp 2020](https://www.datasciencenigeria.org/2020-bootcamp/){target="_blank"} R programming session  can be found [here](https://github.com/gbganalyst/R-programming-end-to-end){target="_blank"}.
 
 ![](https://media2.giphy.com/media/14tCeoSGpXCWrQvixk/giphy.gif)  
