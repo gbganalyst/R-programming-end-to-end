@@ -686,6 +686,6 @@ output:
 
 ---
 
-I hope you enjoy R Programming End to End Using Tidyverse Sample Exam. For more updates in `R`, `Python`, and `Excel` for data science, you can consider to follow me on [Twitter](https://www.twitter.com/gbganalyst){target="_blank"} and [Linkedin](https://www.linkedin.com/in/ezekiel-ogundepo/){target="_blank"}. The Github repository for this [AIBootcamp 2020](https://www.datasciencenigeria.org/2020) R programming session  can be found [here](https://github.com/gbganalyst/R-programming-end-to-end).
+I hope you enjoy R Programming End to End Using Tidyverse Sample Exam. For more updates in `R`, `Python`, and `Excel` for data science, you can consider to follow me on [Twitter](https://www.twitter.com/gbganalyst){target="_blank"} and [Linkedin](https://www.linkedin.com/in/ezekiel-ogundepo/){target="_blank"}. The Github repository for this [AIBootcamp 2020](https://www.datasciencenigeria.org/2020-bootcamp/) R programming session  can be found [here](https://github.com/gbganalyst/R-programming-end-to-end).
 
 ![](https://media2.giphy.com/media/14tCeoSGpXCWrQvixk/giphy.gif)  
