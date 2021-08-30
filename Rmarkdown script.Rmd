@@ -6,7 +6,7 @@ author: |
   | [Ogundepo Ezekiel Adebayo](https://bit.ly/gbganalyst){target="_blank"}
   | [I'm on Twitter](https://twitter.com/gbganalyst){target="_blank"}
 date: "Tuesday, October 20, 2020"
-output: 
+output:
   html_document:
     theme: flatly
     highlight: espresso
@@ -36,6 +36,7 @@ knitr::opts_chunk$set(echo = TRUE,
                       comment = NA,
                       message = FALSE,
                       warning = FALSE, rows.print = 5)
+
 ```
 
 # Exam Instructions
@@ -68,11 +69,16 @@ if (!require(install.load)) {
 
 install.load::install_load("tidyverse")
 
+# Klippy to copy chunk of codes to the clipboard 
+
+klippy::klippy(c('r', 'python'), position = c('top', 'right'), color = 'darkred')
+
 # Set default ggplot2 theme to theme_bw()
+
 theme_set(theme_bw())
 ```
 
-To see the list of all packages in the tidyvserse use: 
+To see the list of all packages in the tidyverse use: 
 
 ```{r tidyverse packages}
 tidyverse_packages()
